@@ -67,3 +67,4 @@ setInterval(function () {
     creature.rotation.y += Math.random() * Math.PI / 2 - Math.PI / 4;
     creature.move(0, 0, 0.5 * Math.random());
 }, 1000);
+//m
